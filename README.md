@@ -1,0 +1,2 @@
+# cnymlnote
+Translation yml file
